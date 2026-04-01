@@ -86,7 +86,7 @@ export default function LandingPage() {
         tracking to protect manufacturers and consumers from counterfeit products.
       </p>
       <div className="hero-actions">
-        <button className="btn-landing-primary" onClick={() => navigate("/")}>
+        <button className="btn-landing-primary" onClick={() => navigate("/manufacturer")}>
           Register a Product
         </button>
         <button className="btn-landing-secondary" onClick={() => navigate("/verify")}>
