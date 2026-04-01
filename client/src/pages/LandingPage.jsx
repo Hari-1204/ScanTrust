@@ -144,7 +144,7 @@ export default function LandingPage() {
       <div className="cta-glow" />
       <h2 className="cta-title">Ready to protect your products?</h2>
       <p className="cta-sub">Register your first product and generate a secure QR in under a minute.</p>
-      <button className="btn-landing-primary" onClick={() => navigate("/")}>
+      <button className="btn-landing-primary" onClick={() => navigate("/manufacturer")}>
         Get Started
       </button>
     </section>
