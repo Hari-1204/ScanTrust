@@ -1,0 +1,56 @@
+[
+  {
+    "productId": "PROD-1773561595487-444XS8",
+    "token": "9d6e7f5c-fb85-490e-96f9-4afa5b6366a7.6091effa765d90aecae88a6495b741ce234aab77994d109d31318e4cca682b32",
+    "name": "cake",
+    "brand": "bb",
+    "category": "Food & Beverage",
+    "batchNumber": "2",
+    "manufacturingDate": "2026-03-10",
+    "description": "CAKE ",
+    "registeredAt": "2026-03-15T07:59:55.490Z",
+    "scanCount": 3,
+    "scanLogs": [
+      {
+        "scanId": "SCAN-1773561620791",
+        "scannedAt": "2026-03-15T08:00:20.791Z",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+        "ip": "::1"
+      },
+      {
+        "scanId": "SCAN-1773674887024",
+        "scannedAt": "2026-03-16T15:28:07.025Z",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+        "ip": "::1"
+      },
+      {
+        "scanId": "SCAN-1773721712203",
+        "scannedAt": "2026-03-17T04:28:32.203Z",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+        "ip": "::1"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "productId": "PROD-1773722998497-MNE44F",
+    "token": "512d18e7-9ad9-4145-bbdd-7099c9a5a65f.bee6e6506ac1c0837c2507834104d72f9fc7b81aa6c2cf2e0cd4ae5de8fc4a92",
+    "name": "Shoes",
+    "brand": "aravind",
+    "category": "Luxury Goods",
+    "batchNumber": "23",
+    "manufacturingDate": "2026-03-16",
+    "description": "Shoes for men",
+    "registeredAt": "2026-03-17T04:49:58.512Z",
+    "scanCount": 1,
+    "scanLogs": [
+      {
+        "scanId": "SCAN-1773723030072",
+        "scannedAt": "2026-03-17T04:50:30.072Z",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+        "ip": "::1"
+      }
+    ],
+    "status": "active"
+  }
+]
