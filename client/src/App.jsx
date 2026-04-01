@@ -12,13 +12,17 @@ export default function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
+        <Route path="/" element={<LandingPage />} />
         <Route path="/home" element={<LandingPage />} />
-        <Route path="/" element={
+
+        <Route path="/manufacturer" element={
           <div className="page-container"><ManufacturerPage /></div>
         } />
+
         <Route path="/verify" element={
           <div className="page-container"><VerifyPage /></div>
         } />
+
         <Route path="/dashboard" element={
           <div className="page-container"><DashboardPage /></div>
         } />
